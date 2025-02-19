@@ -2,6 +2,7 @@
 <h3 align="center">Second year CS student at Wilfrid Laurier University</h3>
 
 - 🌱 I’m currently learning **C, ARM Assembly and VBA!**
+- 🍊 I love the fields of Computer Science and UX Design**
 
 <p align="left">
 </p>
