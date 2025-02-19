@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Second Computer Science Student at Wilfrid Laurier University
+Second Computer Science Student at Wilfrid Laurier University
 <!--
 **GrishiGitHub/GrishiGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
