@@ -9,7 +9,7 @@
 - 🌿 Interests: Visual Arts (watercolors, clay, pencils!), Hiking, Badminton, Video Games
 - 🦖 Recent Obsession: Dinosaurs, because of the new Jurrasic World movie
 
-✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca
+✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!
 
 <p align="left">
 </p>
