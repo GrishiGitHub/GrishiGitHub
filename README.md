@@ -6,7 +6,6 @@
 - 💙 Computer Science and UX Design 
 - 💻 CS: Python (w/ Turtle), C++ (w/ SMFL), C, Java, Javascript, ARM Assembly, VBA
 - 📝 UX: Adobe Creative Cloud, Figma, Product Development 
-- 🌿 Hobbies: Visual Arts (watercolors, clay), Hiking, Badminton, Video Games
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!
 
