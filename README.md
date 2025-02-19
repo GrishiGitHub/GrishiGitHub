@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Grishma Gosain</h1>
+<h1 align="center">Hi 👋, I'm Grishma Gosain⋆</h1>
 <h2 align="center">Second year CS student at Wilfrid Laurier University</h2>
 <h4 align="center">User Experience Design Minor</h4>
 
