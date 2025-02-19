@@ -1,6 +1,9 @@
 ## Hi there 🍊
 Profile in Progress!🛠️
 Second Computer Science Student at Wilfrid Laurier University
+![image](https://github.com/user-attachments/assets/a7a18982-feb0-45fb-86b6-ac10e3c67f2d)
+
+
 <!--
 **GrishiGitHub/GrishiGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
