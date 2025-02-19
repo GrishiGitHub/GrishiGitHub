@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🍊
 Profile in Progress!🛠️
 Second Computer Science Student at Wilfrid Laurier University
 <!--
