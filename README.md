@@ -2,7 +2,9 @@
 <h3 align="center">Second year CS student at Wilfrid Laurier University</h3>
 
 - 🌱 I’m currently learning **C, ARM Assembly and VBA!**
-- 💙 Computer Science and UX Design**
+- 💙 Computer Science and UX Design** 
+- 💻 CS: Python (with Turtle), C++ (with SMFL), C, Java, Javascript, ARM Assembly, VBA**
+- 📝 UX: Adobe Creative Cloud, Figma**
 
 <p align="left">
 </p>
