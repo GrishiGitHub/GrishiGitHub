@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Grishma Gosain</h1>
 <h3 align="center">Second year CS student at Wilfrid Laurier University</h3>
-<h3 align="center">User Experience Design Minor</h3>
+<h2 align="center">User Experience Design Minor</h3>
 
 - 🌱 I’m currently learning **C, ARM Assembly and VBA!**
 - 💙 Computer Science and UX Design 
