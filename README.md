@@ -7,7 +7,6 @@
 - 💻 CS: Python (with Turtle), C++ (with SMFL), C, Java, Javascript, ARM Assembly, VBA
 - 📝 UX: Adobe Creative Cloud, Figma
 - 🌿 Interests: Visual Arts (watercolors, clay, pencils!), Hiking, Badminton, Video Games
-- 🦖 Recent Obsession: Dinosaurs, because of the new Jurrasic World movie
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!
 
