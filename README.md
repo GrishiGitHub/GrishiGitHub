@@ -2,7 +2,7 @@
 <h2 align="center">Second year CS student at Wilfrid Laurier University</h2>
 <h4 align="center">User Experience Design Minor</h4>
 
-- 📚 I’m currently learning **C, ARM Assembly and VBA!**
+- 📚 Currently learning **C, ARM Assembly and VBA!**
 - 💙 Computer Science and UX Design 
 - 💻 CS: Python (w/ Turtle), C++ (w/ SMFL), C, Java, Javascript, ARM Assembly, VBA
 - 📝 UX: Adobe Creative Cloud, Figma, product development
