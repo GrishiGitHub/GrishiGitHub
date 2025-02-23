@@ -9,7 +9,7 @@
 - 🌿 Hobbies: visual arts, hiking, badminton, video games
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!
-<pre>🔗 Connect with my LinkedIn [Grishma Gosain LinkedIn](https://www.linkedin.com/in/grishma-gosain-b36603283/) </pre>
+🔗 Connect with my LinkedIn [Grishma Gosain LinkedIn](https://www.linkedin.com/in/grishma-gosain-b36603283/) &nbsp;
 
 <p align="left">
 </p>
