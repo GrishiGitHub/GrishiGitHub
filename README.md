@@ -4,7 +4,7 @@
 
 - 📚 I'm currently learning **C, ARM Assembly and VBA!**
 - 💙 Computer Science and UX Design 
-- 💻 CS: Python (w/ Turtle), C++ (w/ SMFL), C, Java, Javascript, ARM Assembly, VBA
+- 💻 CS: Python (w/ Turtle), C++ (w/ SMFL), C, Java, Javascript, ARM Assembly, VBA, SQL
 - 📝 UX: Adobe Creative Cloud, Figma, product development
 - 🌿 Hobbies: visual arts, hiking, badminton, video games
 
