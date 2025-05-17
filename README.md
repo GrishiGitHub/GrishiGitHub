@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Grishma Gosain 👋( ˙ ᵕ ˙ )</h1>
-<h2 align="center">Second year CS student at Wilfrid Laurier University</h2>
+<h2 align="center">Third year CS student at Wilfrid Laurier University</h2>
 <h4 align="center">User Experience Design Minor</h4>
 
-- 📚 I'm currently learning **C, ARM Assembly, SQL and VBA!**
+- 📚 I'm currently learning **C, ARM Assembly, AzureML!**
 - 💙 Computer Science and UX Design 
 - 💻 CS: Python (w/ Turtle), C++ (w/ SMFL), C, Java, Javascript, ARM Assembly, VBA, SQL
 - 📝 UX: Adobe Creative Cloud, Figma, product development
-- 🌿 Hobbies: visual arts, hiking, badminton, video games
+- 📈 Data: Cloud Azure, Power BI, Tableau, R
+- 🌿 Hobbies: visual arts, hiking, badminton
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!  
 
