@@ -3,7 +3,6 @@
 <h4 align="center">User Experience Design Minor</h4>
 
 - 📚 I'm currently learning **C, ARM Assembly, AzureML!**
-- 💙 Computer Science and UX Design 
 - 💻 CS: Python (w/ Turtle), C++ (w/ SMFL), C, Java, Javascript, ARM Assembly, VBA, SQL
 - 📝 UX: Adobe Creative Cloud, Figma, product development
 - 📈 Data: Cloud Azure, Power BI, Tableau, R
