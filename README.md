@@ -11,7 +11,8 @@
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!  
 
 🔗 Connect at [Grishma Gosain LinkedIn](https://www.linkedin.com/in/grishma-gosain-b36603283/)  
-🔗 My UX Portfolio: [UX Portfolio](https://grishmagosainuxporfolio.framer.website/)  
+
+🔗 UX Portfolio: [UX Portfolio](https://grishmagosainuxporfolio.framer.website/)  
 
 
 <p align="left">
