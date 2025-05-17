@@ -12,7 +12,7 @@
 
 🔗 Connect at [Grishma Gosain LinkedIn](https://www.linkedin.com/in/grishma-gosain-b36603283/)  
 
-🔗 UX Portfolio: [UX Portfolio](https://grishmagosainuxporfolio.framer.website/)  
+💫 UX Portfolio: [UX Portfolio](https://grishmagosainuxporfolio.framer.website/)  
 
 
 <p align="left">
