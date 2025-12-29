@@ -2,11 +2,10 @@
 <h2 align="center">Third year CS student at Wilfrid Laurier University</h2>
 <h4 align="center">User Experience Design Minor</h4>
 
-- 📚 I'm currently learning **C, ARM Assembly, AzureML!**
-- 💻 CS: Python (w/ Turtle), C++ (w/ SMFL), C, Java, Javascript, ARM Assembly, VBA, SQL
-- 📝 UX: Adobe Creative Cloud, Figma, product development
+- 📚 I'm currently learning **AzureML!**
+- 💻 CS: Python, C++, C, Java, Javascript, ARM Assembly, VBA, ARM, SQL
+- 📝 UX: Figma, Adobe Creative Cloud, product development
 - 📈 Data: Cloud Azure, Power BI, Tableau, R
-- 🌿 Hobbies: visual arts, hiking, badminton
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!  
 
