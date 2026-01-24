@@ -2,10 +2,10 @@
 <h2 align="center">Third year CS student at Wilfrid Laurier University</h2>
 <h4 align="center">User Experience Design Minor</h4>
 
-- 📚 I'm currently learning: PySpark
-- 💻 CS: Python, C++, C, Java, Javascript, VBA, ARM, SQL
+- 📚 I'm currently learning: Pandas
+- 💻 CS: Python, C++, C, Java, Javascript, VBA, SQL
 - 📝 UX: Figma, Adobe Creative Cloud, Product Development
-- 📈 Data: Cloud Azure, Power BI, Tableau, R
+- 📈 Data: Power BI, Tableau, R
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!  
 
