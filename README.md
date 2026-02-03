@@ -6,7 +6,7 @@
 - 💻 CS: Python, C++, C, Java, Javascript, VBA, SQL
 - 📝 UX: Figma, Adobe Creative Cloud, Product Development
 - 📈 Data: Power BI, Tableau, R
-- Previous Fall 2025 @ Ontario Public Service
+- Previously Fall 2025 @ Ontario Public Service
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!  
 
