@@ -3,9 +3,9 @@
 <h4 align="center">User Experience Design Minor</h4>
 
 - 📚 I'm currently learning: Pandas
-- 💻 CS: Python, C++, C, Java, Javascript, VBA, SQL
+- 💻 CS: Python, C++, C, Java, Javascript, VBA
 - 📝 UX: Figma, Adobe Creative Cloud, Product Development
-- 📈 Data: Power BI, Tableau, R
+- 📈 Data: SQL, Power BI, Tableau, R
 - Previously Fall 2025 @ Ontario Public Service
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!  
