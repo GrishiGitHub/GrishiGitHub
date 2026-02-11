@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Grishma Gosain 👋( ˙ ᵕ ˙ )</h1>
 <h2 align="center">Third year CS student at Wilfrid Laurier University</h2>
-<h4 align="center">User Experience Design Minor</h4>
 
 - 📚 I'm currently learning: Pandas
 - 💻 CS: Python, C++, C, Java, Javascript, VBA
