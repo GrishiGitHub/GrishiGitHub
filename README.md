@@ -3,16 +3,13 @@
 
 - 📚 I'm currently learning: Pandas
 - 💻 CS: Python, C++, C, Java, Javascript, VBA
-- 📝 UX: Figma, Adobe Creative Cloud, Product Development
+- 📝 Product: Figma, Adobe Creative Cloud, Product Development
 - 📈 Data: SQL, Power BI, Tableau, R
 - Previously Fall 2025 @ Ontario Public Service
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!  
 
 🔗 Connect at [Grishma Gosain LinkedIn](https://www.linkedin.com/in/grishma-gosain-b36603283/)  
-
-💫 Product Portfolio: [Portfolio](https://grishmagosainuxporfolio.framer.website/)  
-
 
 <p align="left">
 </p>
