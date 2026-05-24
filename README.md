@@ -5,6 +5,7 @@
 - 💻 CS: Python, C++, C, Java, Javascript, VBA
 - 📝 Product: Figma, Adobe Creative Cloud, Product Development
 - 📈 Data: SQL, Power BI, Tableau, R
+- Product Analyst @ RBC
 - Previously Fall 2025 @ Ontario Public Service
 
 ✉️ Contact me at grishmagosain@gmail.com or gosa7244@mylaurier.ca!  
